@@ -1,0 +1,2 @@
+# self-Multi-AI-Agent-Advanced-Use-Cases-with-crewAI
+This repo contains the all the execersices from Multi AI Agent Advance Use Cases with crewAI (DeepLearningAI) course. It might also contain similar developments with my tweaks and trials either temporally or permanently.

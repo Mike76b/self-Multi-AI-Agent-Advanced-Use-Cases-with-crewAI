@@ -1,0 +1,18 @@
+[project]
+name = "self-multi-ai-agent-advanced-use-cases-with-crewai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai==0.28.8",
+    "crewai-tools==0.1.6",
+    "langchain-community==0.0.29",
+    "setuptools==68.0.0",
+    "utils>=1.0.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]
